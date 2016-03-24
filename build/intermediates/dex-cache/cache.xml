@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\volley-a7d9ad92b6819013ffff889b00cfc4f5d73318d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\classes-53c621ba567d32a1a960376f922dd766554513ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\classes-96d23bb4a3a1d98c283f1eea17b58aa6a44947bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\A\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-a20bc486357aa05bad223c173782414cd6c8a420.jar" />
+    </item>
+    <item
+        jar="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\classes-4873db4acf4960bfc21b218555430791a06c0d9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-24f5eb55255a8103a62f678cc7003c4e68fa1617.jar" />
+    </item>
+    <item
+        jar="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\classes-d0edd82a73b34d5025daedb781f5200f9da34e5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\classes-f0385b7999c579b545a5f8d8b0d21baff190ec5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\A\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\A\Desktop\Android\Make-Your-App-Material-XYZReader-master\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c1de060978dcd69575a5aa2127f458cce37a8c13.jar" />
+    </item>
+
+</items>
